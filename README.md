@@ -146,13 +146,13 @@ Used for updating or deleting tasks.
 <img width="1223" alt="Screenshot 2024-09-09 at 10 22 12 PM" src="https://github.com/user-attachments/assets/4a3c0a70-b7c5-4a31-8bed-b648e1f616e7">
 
 ## Links
-**GitHub Profile:** https://github.com/shubhamsingh872
+**GitHub Profile:** https://github.com/shalukumari7484
 
 
-**Repository Link:** https://github.com/shubhamsingh872/BOARD-INFINITY-ASSIGNMENT
+**Repository Link:** https://github.com/shalukumari7484/Board-Infinity-Assignment
 
 
-**Demo Link:** https://board-infinity-assignment.vercel.app/
+**Demo Link:** https://board-infinity-assignment-hzrakmve5-shalukumari7484s-projects.vercel.app/
 
 ## Learning Outcome
 
